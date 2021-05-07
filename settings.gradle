@@ -1,0 +1,5 @@
+include ':app'
+include ':framework'
+include ':simple'
+include ':helloworld'
+rootProject.name = "demo10"
